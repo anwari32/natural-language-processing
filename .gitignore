@@ -1,4 +1,2 @@
 *.zip
-data/
-model/
-tokenizer/
+*.pyc
